@@ -19,7 +19,8 @@
 
 
 ## OUTPUT
-![ex-10](https://github.com/Blessytheboral/EX10_Web-Design/assets/127816463/54405914-47e0-4872-93e2-9292581f3b38)
+![Screenshot (50)](https://github.com/Blessytheboral/EX10_Web-Design/assets/127816463/771c21e5-c352-4db1-9a06-fb49a237e8e1)
+
 
 
 
