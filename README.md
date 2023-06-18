@@ -19,6 +19,8 @@
 
 
 ## OUTPUT
+![ex-10](https://github.com/Blessytheboral/EX10_Web-Design/assets/127816463/54405914-47e0-4872-93e2-9292581f3b38)
+
 
 
 ## RESULT
